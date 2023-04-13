@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cultural Heritage 3D"
 title_separator          : "-"
 name                     : &name "Marcelina Nagales"
-description              : &description "personal description"
+description              : &description "Digital Humanist Researcher"
 url                      : https://www.culturalheritage3d.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "marcelinanagales/marcelinanagales.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Marcelina Nagales"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile1.png"
+  bio              : "Software Team Manager at the Florida State University Research Computing Center"
   location         : "Tallahassee, FL"
   employer         :
   pubmed           : 
